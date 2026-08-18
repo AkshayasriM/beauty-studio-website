@@ -96,3 +96,24 @@ beauty-studio-website/
 ├── package.json
 ├── vite.config.js
 └── README.md
+## 📸 Project Preview
+
+### 🖥️ Desktop
+
+![ÉLVARA Desktop](./screenshots/desktop-home.png)
+
+### 💇 Services
+
+![ÉLVARA Services](./screenshots/services.png)
+
+### 🎨 Gallery
+
+![ÉLVARA Gallery](./screenshots/gallery.png)
+
+### 📅 Appointment
+
+![ÉLVARA Appointment](./screenshots/appoinment.png)
+
+### 📱 Mobile — iPhone 14 Pro Max
+
+![ÉLVARA Mobile](./screenshots/mobile-home.png)
